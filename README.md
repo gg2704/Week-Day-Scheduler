@@ -24,7 +24,4 @@ THEN I can enter an event
 WHEN I click the save button for that time block
 THEN the text for that event is saved in local storage
 WHEN I refresh the page
-THEN the saved events persist
-
-## Mock-Up
-05-Third-Party-APIs\02-Homework\Assets\05-third-party-apis-homework-demo.gif
+THEN the saved events persistent
