@@ -27,4 +27,4 @@ WHEN I refresh the page
 THEN the saved events persist
 
 ## Mock-Up
-![day planner demo](./Assets/05-third-party-apis-homework-demo.gif)
+05-Third-Party-APIs\02-Homework\Assets\05-third-party-apis-homework-demo.gif
